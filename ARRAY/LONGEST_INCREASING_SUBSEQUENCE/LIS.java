@@ -19,5 +19,6 @@ class LIS{
         for(int i:res)ans=Math.max(ans, i);
         
         System.out.println(ans);
+        sc.close();
     }
 }
